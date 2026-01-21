@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Design database schema",
+    "description": "Create Prisma models and enums",
+    "responsible": "bader",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "title": "Implement task API",
+    "description": "Create CRUD endpoints for tasks",
+    "responsible": "farouk",
+    "status": "processing"
+  },
+  {
+    "id": 3,
+    "title": "Fix table typing issue",
+    "description": "Resolve TanStack Table generic errors",
+    "responsible": "bader",
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "title": "Write documentation",
+    "description": "Document API and database structure",
+    "responsible": "mohemmed",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "title": "Testing & QA",
+    "description": "Test task workflow and edge cases",
+    "responsible": "farouk",
+    "status": "processing"
+  }
+]
